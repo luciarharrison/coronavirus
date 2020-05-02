@@ -1,5 +1,6 @@
 # coronavirus
 Hackathon project 
+Team -- Lucia Harrison, Sydney Cohen and Sydney Byck. 
 
 Explanation of files: 
 
