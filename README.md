@@ -11,3 +11,5 @@ Style -- all style used in this project
 Easy changes -- includes two files, athome.html and outside.html. It includes information on how to flatten the curve at home and outside 
 
 Resources -- More resources on how to properly wear a mask, what mask you should wear and information from the CDC on the coronavirus. 
+
+Zip -- download the zip and test it out yourself! 
